@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Mohsinameen/mohsinameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohsin Ameen
 
-Here are some ideas to get you started:
+Product Design Lead working at the intersection of design and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building Intenta — a constraint engine that keeps AI anchored
+to design systems at the machine level.
+
+2M+ installs · 270% session time increase · 10 years across
+Fintech, Healthcare, PropTech and Consumer apps.
+
+→ mohsinamin.com
+→ linkedin.com/in/mohsinameen
